@@ -1,0 +1,14 @@
+body {
+  padding: 50px;
+  font: 20px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #ff00c8;
+}
+
+img.burger {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
